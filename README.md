@@ -12,7 +12,7 @@ This project is to detect speed of each vehicles in video. For that, we had 4 st
     git clone https://github.com/HarshaCDI/Hacktech_Juyoung_Lee.git
     cd Hacktech_Juyoung_Lee
     ```
-2. Upload file to Google drive and execute file with Google Colaboratory.
+2. Upload file to Google drive and open file with Google Colaboratory.
 3. Make new directory for test video
     ```
     mkdir test
