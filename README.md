@@ -18,7 +18,8 @@ This project is to detect speed of each vehicles in video. For that, we had 4 st
     mkdir test
     cd test
     ``` 
-5. Upload test video under /content/test/  
+5. Upload test video under /content/test/
+6. Execute codes  
 
 ----------------
 Reference : 
